@@ -484,12 +484,15 @@ html {
 body {
 	font-size: 14px;
 	font-size: 1rem;
-	font-family: Helvetica, Arial, sans-serif;
+/*	font-family: Helvetica, Arial, sans-serif;*/
+	font-family: 'Della Respira', serif;
 	text-rendering: optimizeLegibility;
 	color: #444;
 }
 body.custom-font-enabled {
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+/*	font-family: "Open Sans", Helvetica, Arial, sans-serif;*/
+/*	font-family: 'Della Respira', serif;*/
+	font-family: 'Chivo', sans-serif;
 }
 a {
 	outline: none;
@@ -1617,6 +1620,7 @@ img#wpstats {
 	.site-header:after {
 		clear: both;
 	}
+
 }
 
 
