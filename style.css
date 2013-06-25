@@ -492,7 +492,8 @@ body {
 body.custom-font-enabled {
 /*	font-family: "Open Sans", Helvetica, Arial, sans-serif;*/
 /*	font-family: 'Della Respira', serif;*/
-	font-family: 'Chivo', sans-serif;
+/*	font-family: 'Chivo', sans-serif;*/
+	font-family: 'Abel', sans-serif;
 }
 a {
 	outline: none;
